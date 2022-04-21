@@ -9,7 +9,7 @@ int main(){
 	printf("Cambio en el main Issue 3");
 	printf("Web page design\n");
     printf("Cambio en el main Issue 4");
-	printf("color palette selection\n");
 	printf("Cambio en el main Issue 5");
+	printf("color palette selection\n");
     return 0;
 }
