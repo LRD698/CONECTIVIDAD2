@@ -12,5 +12,6 @@ int main(){
 	printf("Cambio en el main Issue 5");
 	printf("color palette selection\n");
     printf("Correlation of Concepts and Shapes\n");
+	printf("Web Performance\n");
     return 0;
 }
