@@ -11,5 +11,6 @@ int main(){
     printf("Cambio en el main Issue 4");
 	printf("Cambio en el main Issue 5");
 	printf("color palette selection\n");
+    printf("Correlation of Concepts and Shapes\n");
     return 0;
 }
