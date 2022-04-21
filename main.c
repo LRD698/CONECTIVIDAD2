@@ -6,5 +6,6 @@ int main(){
     printf("Hirign Graphic Designers\n");
 	printf("Cambio en el main Issue 2");
 	printf("Web page development\n");
+	printf("Web page design\n");
     return 0;
 }
